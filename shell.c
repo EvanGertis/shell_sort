@@ -6,7 +6,8 @@
 int main(){
 
     int a[MAX], j, temp, n, k;
-
+    k = 5;
+    
     printf("Enter the number of elements that you would like to add to the array: \n");
     scanf("%d", &n);
 
